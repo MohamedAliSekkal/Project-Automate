@@ -1,0 +1,6 @@
+#ignore png 
+*.dot
+#ignor dot
+*.png
+#ignore fichier compiler
+/*output
